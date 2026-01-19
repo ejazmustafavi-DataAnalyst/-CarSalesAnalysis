@@ -100,5 +100,7 @@ I'm actively seeking Data Analyst opportunities in Qatar or remote positions. If
 This project is available for educational and portfolio purposes.
 
 ## 🔗 Links
+ Links
 
-- [LinkedIn Profile]https://www.linkedin.com/in/mejazmustafavi
+LinkedIn Profile
+- https://www.linkedin.com/in/mejazmustafavi
