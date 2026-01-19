@@ -101,6 +101,4 @@ This project is available for educational and portfolio purposes.
 
 ## 🔗 Links
 
-- [LinkedIn Profile](your-linkedin-url)
-- [Portfolio](your-portfolio-url)
-- [Email](your-email@example.com)
+- [LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/mejazmustafavi/)
